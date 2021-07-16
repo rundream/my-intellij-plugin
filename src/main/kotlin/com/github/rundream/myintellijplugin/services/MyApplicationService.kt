@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.rundream.myintellijplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.rundream.myintellijplugin.MyBundle
 
 class MyApplicationService {
 
